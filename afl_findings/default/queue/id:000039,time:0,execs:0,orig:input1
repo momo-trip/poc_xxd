@@ -1,0 +1,1 @@
+-r nxistent_file.hex output.bin 2>&1

@@ -1,0 +1,1 @@
+-r hex_file.txt /dev/full 2>&1

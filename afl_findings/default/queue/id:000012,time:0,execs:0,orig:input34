@@ -1,0 +1,1 @@
+-u -g 4 -c 8 tesput.txt
